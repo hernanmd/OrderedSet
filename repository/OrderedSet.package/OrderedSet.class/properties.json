@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "StephaneDucasse 12/23/2009 15:27",
+	"super" : "Collection",
+	"category" : "OrderedSet",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"values",
+		"comparisonBlock"
+	],
+	"name" : "OrderedSet",
+	"type" : "normal"
+}

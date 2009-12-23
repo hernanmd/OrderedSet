@@ -1,0 +1,4 @@
+requirements
+collectionWithoutNilElements
+
+	^ self collectionWithoutElement 

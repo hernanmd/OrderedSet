@@ -1,0 +1,19 @@
+{
+	"classtraitcomposition" : "TAddForUniquenessTest classTrait + TIncludesTest classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"empty",
+		"elementNotIn",
+		"element",
+		"collectionWithElement",
+		"collectionWithoutElement"
+	],
+	"name" : "OrderedSetTest",
+	"commentStamp" : "",
+	"super" : "CollectionRootTest",
+	"traitcomposition" : "TAddForUniquenessTest + TIncludesTest",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "OrderedSet"
+}
