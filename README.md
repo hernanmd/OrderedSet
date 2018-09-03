@@ -11,7 +11,7 @@ Metacello new
 
 # Baseline String
 
-If you want to add the BioSmalltalk to your Metacello Baselines or Configurations, copy and paste the following expression:
+If you want to add the OrderedSet to your Metacello Baselines or Configurations, copy and paste the following expression:
 
 ```smalltalk
     " ... "
