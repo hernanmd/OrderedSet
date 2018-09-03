@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "HernanMoralesDurand 8/31/2018 16:17",
+	"super" : "BaselineOf",
+	"category" : "BaselineOfOrderedSet",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BaselineOfOrderedSet",
+	"type" : "normal"
+}
